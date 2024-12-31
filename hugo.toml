@@ -1,6 +1,6 @@
-baseURL = 'https://nhdblog.netlify.app'
+baseURL = 'https://huuthuan1001.github.io/bloghuuthuan/'
 languageCode = 'en-us'
-title = 'Blog Của Nguyễn Hữu Đạt'
+title = 'Blog Của Huu Thuan'
 theme = 'hugo-theme-reimu'
 
 
